@@ -1,4 +1,4 @@
-Medico Bot uses Arduino to simplify medication management and ensure adherence to prescribed schedules. The system integrates an RTC (Real-Time Clock) module for precise timing, an LCD screen for user-friendly schedule setup and information display, LEDs for visualalerts, and a buzzer for audible reminders. At predefined times, the dispenser opens the compartment of the container containing the correct medicine, accompanied by notifications via LEDs and the buzzer to alert the user.
+Smart Medication Dispense uses Arduino to simplify medication management and ensure adherence to prescribed schedules. The system integrates an RTC (Real-Time Clock) module for precise timing, an LCD screen for user-friendly schedule setup and information display, LEDs for visualalerts, and a buzzer for audible reminders. At predefined times, the dispenser opens the compartment of the container containing the correct medicine, accompanied by notifications via LEDs and the buzzer to alert the user.
 
 
 ## MODEL:
